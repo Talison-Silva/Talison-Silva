@@ -15,5 +15,3 @@
 <div> 
 
 </div>
-
-![snake gif](https://github.com/Talison-Silva/Talison-Silva/blob/output/github-contribution-grid-snake.svg)
