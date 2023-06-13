@@ -1,9 +1,9 @@
 ### Hi, I’m Talison-Silva👋
 
 <div align="center">
-  <a href="https://github.com/YTzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YTzin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTzin&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/Talison-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talison-Silva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talison-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Talison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
