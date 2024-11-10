@@ -1,5 +1,7 @@
 ### Hi, I’m Talison-Silva👋
 
+- 🚧 I,m currently working as a full-stack
+
 <div align="center">
   <a href="https://github.com/Talison-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talison-Silva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
